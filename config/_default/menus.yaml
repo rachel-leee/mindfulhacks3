@@ -5,14 +5,14 @@
 
 main:
   - name: Event Details
-    url: #event
+    url: /#event
     weight: 20
   - name: FAQs
-    url: #faqs
+    url: /#faqs
     weight: 30
   - name: Sponsors
-    url: #sponsors
+    url: /#sponsors
     weight: 40
   - name: Contact
-    url: #contact
+    url: /#contact
     weight: 50
