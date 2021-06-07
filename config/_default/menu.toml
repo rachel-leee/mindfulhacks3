@@ -1,0 +1,4 @@
+[[main]]
+  name = "Home"  # Title of the link.
+  url = "landing/"  # Widget Page folder name.
+  weight = 2  # Position of the link in the navigation bar.
